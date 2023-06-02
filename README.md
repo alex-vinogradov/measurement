@@ -1,2 +1,2 @@
 # measurement
- Basics of psychological measurement
+ Psychological measurement
