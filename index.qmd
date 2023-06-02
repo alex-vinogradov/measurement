@@ -1,0 +1,27 @@
+---
+title: "Основи психометрики"
+author: "Олександр Виноградов"
+lang: uk-UA
+
+format:
+  html:
+    ## css: styles.css
+    theme: Cyborg
+    monobackgroundcolor: "#000040"
+
+toc: true
+toc-depth: 3
+toc-location: left
+toc-title: Зміст
+author-title: Автор
+
+crossref:
+  tbl-title: Таблиця
+  tbl-prefix: Табл.
+  fig-title: Рисунок
+  fig-prefix: Рис.
+---
+
+# Ренсіс Лікерт
+
+Класична вимірювальна модель та її недоліки.
